@@ -1,0 +1,40 @@
+POWER MORSE
+
+.
+
+
+-
+
+
+?  (SOFFIO LUNGHISSIMO)
+
+
+lettere, numeri, ecc  --> punto e linea
+
+spazio --> ? .
+
+cancella --> ? -
+
+indietro --> ?
+
+INTERVALLI TEMPORALI
+.			150ms-500ms
+-			500ms-1000ms
+?			1000ms-inf
+
+
+COMANDI ARDUINO PROCESSING
+inizioGo = "GO"; inizio dell'intervallo buono per soffiare
+startBlow = "sb"; inizio del soffio
+endBlow = "eb"; fine del soffio
+.
+-
+?: soffio molto lungo
+" ": passa lo spazio
+"//": cancella due volte
+"/": cancella una volta
+"indietro": torno alla schermata precedente
+_ : passa il carattere non riconosciuto
+
+
+
