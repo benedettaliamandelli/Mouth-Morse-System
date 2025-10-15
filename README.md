@@ -54,4 +54,4 @@ The device is intended to be **portable and wearable** for frequent use in vario
   - **Chin prop** 
 - A design focused on providing a **pleasant user experience**.
 
-
+![Figure 1.1 – Device Wearability](images/figure1.jpeg)
